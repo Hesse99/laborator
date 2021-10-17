@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/5087b6ec-9659-4c76-99cf-245561a5f822/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/AndrisLaurentiuTema2",
+    "appService.deploySubpath": "publish"
+}
